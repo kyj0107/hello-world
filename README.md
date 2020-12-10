@@ -18,7 +18,7 @@ I enrolled in another computer class my sophomore year of high school. It was a 
 
 My junior year of high school, I enrolled in a cybersecurity class. However, it was taught by the same teacher, and he just gave us assignments and told us to work without really teaching us anything. This was around the time when I got interested in CTC (Career and Technology Center), which was held at a different school from mine. I was interviewed by someone from that school, and I got accepted into the Cybersecurity program! And, considering that this was more hands-on work than just staring at a computer and browsing through potentially dangerous files all hour, I was definitely looking forward to it.
 
-CTC was...interesting, to put it politely. Otherwise, it was one of the weirdest yet most enlightening experiences I've ever had. My classmates were *weird*, and I mean **_weird_**. Not a bad weird, but just...*weird*. I learned a few weird things in that class, including:
+CTC was...interesting, to put it politely. Otherwise, it was one of the weirdest yet most enlightening experiences I've ever had. My classmates were *weird*, and I mean **weird**. Not a bad weird, but just...*weird*. I learned a few weird things in that class, including:
 
 * Animal Crackers contain a lot of protein (that's actually not true, but it was kind of a joke for a hot minute)
 * A hacker could die trying to crack your password if your password was the entire script of *The Bee Movie*
@@ -29,3 +29,6 @@ It's not like I didn't learn anything from that class at all! I learned to confi
 
 Hmmm... how do you put an image in here?
 
+![butterfly_on_a_shirt](https://user-images.githubusercontent.com/70150464/101841701-1309fc80-3b0c-11eb-8776-88fc4f0cc97c.jpg)
+
+There's a weird story behind this image. Last December, my family visited my mom's relatives in southern--I'm talking *southern*--Mexico. Washers and dryers are expensive as all heck over there, so people usually get just a washer. Besides, why waste precious electricity or gas when you can just hang your clothes on clotheslines and dry them out in the scorching sun for free? The only downside is that wrinkles happen. Anyway, on a few of the days in those two weeks in Mexico, my family and my mom's brother went to San Cristobal. While visiting San Cristobal, we stayed at a relative's house in a town nearby. It was *so*, **so** ridiculously sunny outside that clothes dried quickly and my glasses turned dark *really fast*--I have transition lenses, and they make my glasses sunglasses if they're exposed to UV light, and there was *a lot* of UV light in that area. Anyway, one day I was hanging clothes to dry when a butterfly landed on my tie-dye T-shirt. It just sat there for...minutes. It didn't move unless I got close enough. It just sat there. And then it finally left.
