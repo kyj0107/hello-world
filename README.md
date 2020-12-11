@@ -1,40 +1,46 @@
 # Markdown and Github!
-### by Karla Jaime
-I'm beginning to think we have all used some form of markdown at some point in our lives. Have you heard of Tumblr or Discord? I don't know if Tumblr does this anymore--this is pretty much impossible to do on the mobile versions of Tumblr, but I think this is still possible on desktop--but you could write your posts in HTML. After reading those articles about Markdown, I realized that Discord uses Markdown! I've been using Markdown for the past two years and I didn't realize it until now! Well, I've been using them for fun, not for anything serious. I guess this will be my first time using Markdown for something serious...like this final project.
+## by Karla Jaime
 
-## Hmmm, how did I decide to major in Information Technology?
+Hmm... Where do I start? Well, I've come to the conclusion that we're completely surrounded by Markdown and HTML...in the sense that you can use them while making posts on social media. Let's look at Tumblr and Discord. Tumblr--I don't know if it still does this on desktop, but I know for a fact that it's pretty much impossible on mobile--gives you the option to create a post using HTML. You can definitely use HTML when writing your description and creating pages on your blog. Discord uses Markdown. Basically, I've been messing with Markdown for the past two years! It was never for anything serious, though. This will be the first time that I'm using Markdown for anything serious...like this final project!
 
-Where do I start? Well, I wanted to be an artist when I was little, but my sister immediately shut down that idea by saying that artists don't get paid a lot. I don't even remember how I got into computers the first time, but here I am, taking this class and making this final project. I *have* actually messed with GitHub at some point, although I haven't actually touched it in...three years. GitHub has changed a lot since I last used it, and it's honestly nice to have a bit of a refresher! Anyway...
+## How did we get here?
 
-I have actually worked with Python, but only for a few months in my first year of high school. I don't even remember what we covered, because we spent only a couple of months on one programming language and then unceremoniously moved on to the next. What was it that we worked on? Let's see...
+I was considering a career in art, but my sister kind of shut down that idea because "artists don't get paid as much as more 'practical' jobs". I like to think of myself as a decent artist, even though realism is *not* my thing. Anyway, I don't know when I became interested in computers so much, but I took computer classes in high school.
+
+The first class, the one in my freshman year of high school, was basically an introducting to a bunch of computer languages. The thing is, we only really focused on a programming language for a month or two, and then we moved on to the next thing. Let's see if I can remember which languages we used...
 
 1. Scratch
-2. Some application to create apps on Android (I actually don't remember the name, but I think it was Android Studio...?)
+2. Android App Maker (well, it was an app-developing..app...on Android, but I don't remember the actual name for it)
 3. Python
-4. HTML
-5. Javascript
+4. CSS
+5. HTML
+6. Javascript
 
-...and that's about all I can remember.
+...and that's about all I remember. We also messed with GitHub in this class, but because it's been *years* since I used it I desperately needed a refresher for this final project. It doesn't help that (I think) a lot has changed since I last used GitHub. Repositories, branches--it's all too complicated and annoying! Oh, well. If I'm going into a field like this, I might as well learn how to use it. Although...do you really need GitHub when you're configuring routers and switches for a living?
 
-I enrolled in another computer class my sophomore year of high school. It was a bit awkward being surrounded by guys--out of the sea of guys, it was just me and this other girl. We spent the entire year working on Java (the same code used for *Minecraft*), but the teacher didn't exactly do a good job of teaching us. I can't really critique a teacher since I have no experience in teaching myself, but this teacher just gave us assignments and told us to work. I don't think he ever gave us examples to work off of. Admittedly, I don't really think ahead. I end up spending a lot of time brute-forcing code until I get it to work. Usually, it works! The way I say see it, there's no point in writing down code you think will work, typing it all in, and then testing it only to find that it doesn't work. For some reason, it's just easier for me to try out code and keep altering it until I get it to work the way I want it to.
+In my sophomore year of high school, I took another computer class. This class focused on Java for the entire year, but...the teacher wasn't exactly good at his job. I can't really criticize a teacher since I've never teached myself, but I'm sure we can all agree that giving your students assignments and telling them to work without giving them examples to work off of or how to use certain keywords in Java isn't exactly the best way to teach, right?
 
-My junior year of high school, I enrolled in a cybersecurity class. However, it was taught by the same teacher, and he just gave us assignments and told us to work without really teaching us anything. This was around the time when I got interested in CTC (Career and Technology Center), which was held at a different school from mine. I was interviewed by someone from that school, and I got accepted into the Cybersecurity program! And, considering that this was more hands-on work than just staring at a computer and browsing through potentially dangerous files all hour, I was definitely looking forward to it.
+I hear that it's a good idea to plan your code on paper before you jump into the real deal, but let me ask you something: how often do you find yourself writing code for hours, finally plugging it all in to test it, and realizing you wasted several hours writing code that wouldn't work to begin with? The only things you really get out of that are hand cramps and pencil marks on the side of your hand. That's why I just brute-force my way through code--I plug in what I think will work, immediately test it, and--since Python actually tells you where the error occurs and why--correct anything.
 
-CTC was...interesting, to put it politely. Otherwise, it was one of the weirdest yet most enlightening experiences I've ever had. My classmates were *weird*, and I mean **weird**. Not a bad weird, but just...*weird*. I learned a few weird things in that class, including:
+Anyway, I found out halfway into the year that the class that I had signed up for was actually an AP class--I don't know if this really explains why the teacher just expected us to know what we were doing--and, well, I didn't take the AP test for that class. I did, however, leave the class with trauma associated with Java. Hopefully, by the time we get around to learning Java while I'm in college, I'll be able to actually learn something and have it stick.
 
-* Animal Crackers contain a lot of protein (that's actually not true, but it was kind of a joke for a hot minute)
-* A hacker could die trying to crack your password if your password was the entire script of *The Bee Movie*
-* Don't lean on wheeled chairs. Ever.
-* This is a field where you basically trade your eyesight for a job working on a computer. Seriously, everyone except one kid out of twelve in that class needed some form of correction for their eyesight, including me.
+My junior year of high school came around, and my school just added a new class: Cybersecurity. I was more excited about cybersecurity than I was about coding, so I signed up for the class. However, it was taught by the same teacher from the previous year, and it was basically the same story: "Here's your assignment, now do the work." I mean, I *did* learn a few things in that class--like finding suspicious files. Why is it that Windows hides extensions by default? That's so dumb. I'd also like to know why they just have the system32 folder out in the open and easily accessible to some random user who plans to cause mischief...or just outright destroy the computer.
 
-It's not like I didn't learn anything from that class at all! I learned to configure a switch and a router, change the IP address on a Windows machine, plug in certain cables for certain things... It was almost like review from the cybersecurity class that I'd taken the year before, except this class lasted three hours a day and the teacher did a better job of teaching us. I still don't know how it happened, but I'd actually been nominated Student of the Year by the cybersecurity instructor!
+This was around the time that I got interested in the Career and Technology Center program. It's a thing that happens at a school in a different town from mine, and since they have a Cybersecurity program AND I can leave my school for three hours a day, I seriously considered it. They interview students who sign up for the program. A week or so after my own interview, I got a little yellow card saying I'd been accepted for the Cybersecurity program!
+
+So my senior year of high school, I took a bus every day to go to CTC in the afternoon. I will say that my classmates were...weird. Like, **weird** weird. Not a bad weird, but just...*weird*. We were all video-game addicts who rambled about Super Smash Bros. and memes. I learned a few weird things from this class:
+
+* Animal Crackers contain a ton of protein (this is actually not true, but this was a joke for a hot minute when one of the kids in the Cybersecurity program decided to eat an entire jar of Animal Crackers for lunch)
+* It would literally take forever for a hacker to crack your password if your password was the entire script of *The Bee Movie* (this was actually my dumb idea)
+* My classmates might be my coworkers some day, and they're all a bunch of nerds who reek of Mountain Dew, Doritos, and video games.
+* This is a field where you basically exchange your eyesight for a job working at a computer. Seriously, everyone except for, like, two out of twelve students in that afternoon class wore some form of corrective eyewear. I wore contacts and glasses, five other kids wore glasses, and the remaining four just wore contact lenses.
+
+Overall, the experience was weird yet really, *really* enlightening. We went over stuff about networking and different kinds of encryption for protecting passwords and the like on routers and switches, we actually configured routers and switches a few times, and we messed around with this program called Cisco Packet Tracer.
+
+Anyway, as you all are aware, COVID-19 spread to Missouri in March, and they closed down all the schools and switched to online learning. The same went for CTC. After the school year ended, I had to go in to do a thing or two, and I found out that, for some reason, my Cybersecurity instructor had actually nominated me for Student of the Year! I got a certificate and everything.
+
+So yeah. The experience at CTC pretty much solidified my idea of working in Information Technology. So here we are!
 
 ## Am I bilingual if I can understand a second language but can't speak it?
 
-Hmmm... how do you put an image in here?
-
-![butterfly_on_a_shirt](https://user-images.githubusercontent.com/70150464/101841701-1309fc80-3b0c-11eb-8776-88fc4f0cc97c.jpg)
-
-There's a weird story behind this image. Last December, my family visited my mom's relatives in southern--I'm talking *southern*--Mexico. Washers and dryers are expensive as all heck over there, so people usually get just a washer. Besides, why waste precious electricity or gas when you can just hang your clothes on clotheslines and dry them out in the scorching sun for free? The only downside is that wrinkles happen. Anyway, on a few of the days in those two weeks in Mexico, my family and my mom's brother went to San Cristobal. While visiting San Cristobal, we stayed at a relative's house in a town nearby. It was *so*, **so** ridiculously sunny outside that clothes dried quickly and my glasses turned dark *really fast*--I have transition lenses, and they make my glasses sunglasses if they're exposed to UV light, and there was *a lot* of UV light in that area. Anyway, one day I was hanging clothes to dry when a butterfly landed on my tie-dye T-shirt. It just sat there for...minutes. It didn't move unless I got close enough. It just sat there. And then it finally left.
-
-So! The thing about southern Mexico, specifically Chiapas, is that it's consistently hot. And humid? Well, it wasn't *that* humid when I went there. In comparison, Missouri is a swamp!
+![butterfly on a shirt](https://user-images.githubusercontent.com/70150464/101841701-1309fc80-3b0c-11eb-8776-88fc4f0cc97c.jpg)
