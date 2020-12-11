@@ -53,6 +53,8 @@ I mean, *look at this*!
 
 And while I'm at it, here's the Wikipedia page on [San Cristobal de las Casas.](https://en.wikipedia.org/wiki/San_Crist%C3%B3bal_de_las_Casas)
 
+Better yet, [here's the Wikipedia page Chiapas.](https://en.wikipedia.org/wiki/Chiapas)
+
 Anyway, my family went to San Cristobal. At some point, we were delayed because of some...avalanche or something...further ahead that blocked the road, so there was a guy who came up to us and told us which way to go that would still take us to San Cristobal. The funniest thing about it was that we noticed my sister and me, and he spoke in English--very, *very* broken English. I mean, he tried! But in all honesty, my sister and I were better off hearing his instructions in Spanish.
 
 But yeah. San Cristobal was okay.
@@ -67,4 +69,6 @@ Why was I outside, you wonder? Well, washers and dryers are expensive in Mexico,
 
 The butterfly just came by and landed on my tie-dye shirt! And it just sat there. For minutes. Maybe longer. I don't remember how long it was before the butterfly finally decided, "Okay, I'm good," and flew away.
 
-So let's discuss the [header!](#bilingual_time)
+So let's discuss the [header!](#bilingual-time) As unrelated as it sounds to San Cristobal, I have something to say! So, I can understand Spanish, but I don't speak it. Do I still count as bilingual?
+
+
