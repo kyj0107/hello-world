@@ -53,7 +53,7 @@ I mean, *look at this*!
 
 And while I'm at it, here's the Wikipedia page on [San Cristobal de las Casas.](https://en.wikipedia.org/wiki/San_Crist%C3%B3bal_de_las_Casas)
 
-Better yet, [here's the Wikipedia page Chiapas.](https://en.wikipedia.org/wiki/Chiapas)
+Better yet, [here's the Wikipedia page for Chiapas.](https://en.wikipedia.org/wiki/Chiapas)
 
 Anyway, my family went to San Cristobal. At some point, we were delayed because of some...avalanche or something...further ahead that blocked the road, so there was a guy who came up to us and told us which way to go that would still take us to San Cristobal. The funniest thing about it was that we noticed my sister and me, and he spoke in English--very, *very* broken English. I mean, he tried! But in all honesty, my sister and I were better off hearing his instructions in Spanish.
 
