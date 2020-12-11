@@ -67,4 +67,4 @@ Why was I outside, you wonder? Well, washers and dryers are expensive in Mexico,
 
 The butterfly just came by and landed on my tie-dye shirt! And it just sat there. For minutes. Maybe longer. I don't remember how long it was before the butterfly finally decided, "Okay, I'm good," and flew away.
 
-So let's discuss the [header!](./F2.md#bilingual-time)
+So let's discuss the [header!](#bilingual_time)
