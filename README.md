@@ -41,7 +41,7 @@ Anyway, as you all are aware, COVID-19 spread to Missouri in March, and they clo
 
 So yeah. The experience at CTC pretty much solidified my idea of working in Information Technology. So here we are!
 
-## Am I bilingual if I can understand a second language but cannot speak it? {#bilingual-time}
+## Bilingual Time
 
 Last December, my family traveled to southern--I mean, *southern*--Mexico to see my mom's relatives. Tapachula, the city my mom was raised in, is, like, right on the border of Guatemala. Hopefully, that gives you a semi-decent idea of where it is. And it's consistently hot--the lowest would be 70, the highest would be 90 or even hotter, and it was, like, always bright and sunny. I don't remember a single day when it rained in during those two weeks in Mexico! Of course, you were also surrounded by Spanish-speaking natives, Spanish signs, Spanish...**everything**. Also, the Walmart in Tapachula has an entire aisle for chocolate. As an American whose first language is English, I read it as "chawk-let". But this is Mexico we're talking about, so it's "choe-coe-lah-teh". I was wondering, "Wait, why is the word 'chocolate' in English?" It's not in English--Spanish just spells it the same way.
 
@@ -67,4 +67,4 @@ Why was I outside, you wonder? Well, washers and dryers are expensive in Mexico,
 
 The butterfly just came by and landed on my tie-dye shirt! And it just sat there. For minutes. Maybe longer. I don't remember how long it was before the butterfly finally decided, "Okay, I'm good," and flew away.
 
-So let's discuss the [header!](#bilingual-time)
+So let's discuss the [header!](./F2.md#bilingual-time)
