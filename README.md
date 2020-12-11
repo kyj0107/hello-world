@@ -3,7 +3,7 @@
 
 Hmm... Where do I start? Well, I've come to the conclusion that we're completely surrounded by Markdown and HTML...in the sense that you can use them while making posts on social media. Let's look at Tumblr and Discord. Tumblr--I don't know if it still does this on desktop, but I know for a fact that it's pretty much impossible on mobile--gives you the option to create a post using HTML. You can definitely use HTML when writing your description and creating pages on your blog. Discord uses Markdown. Basically, I've been messing with Markdown for the past two years! It was never for anything serious, though. This will be the first time that I'm using Markdown for anything serious...like this final project!
 
-## How did we get here?
+## How did we get here
 
 I was considering a career in art, but my sister kind of shut down that idea because "artists don't get paid as much as more 'practical' jobs". I like to think of myself as a decent artist, even though realism is *not* my thing. Anyway, I don't know when I became interested in computers so much, but I took computer classes in high school.
 
@@ -71,4 +71,59 @@ The butterfly just came by and landed on my tie-dye shirt! And it just sat there
 
 So let's discuss the [header!](#bilingual-time) As unrelated as it sounds to San Cristobal, I have something to say! So, I can understand Spanish, but I don't speak it. Do I still count as bilingual?
 
+## Dogs
+
+I own a Western Terrier named Yuki. She's actually one of three dogs we'd gotten when I was a child. Sadly, two of them have passed away already, so Yuki is the only one left.
+
+Yuki is weird. Very weird. But she's cute. She loves belly rubs and chicken. She's got a bit of a nasty habit of following me and my mom around in the kitchen and watching us eat, hoping we'll give her human food.
+
+We have another dog named Oliver. He's a Shi Tzu-Maltese mix, and he's also cute. I think he's rubbing off on Yuki--Yuki is, like, thirteen years old now, but she's gotten into the habit of greeting my mom when she gets home from work and wanting to play! The only other dog we know who does that is Oliver. We think Yuki's also rubbed off on him, as he now gets in the way sometimes and tries to distract us while we're eating.
+
+## Conclusion
+
+Well, that's about all I got to fill the requirements for this project. I can definitely go on about computer classes, but everything else? Nah. Anyway...
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Fizz Buzz</title>
+<script>
+
+function fizzbuzz() {
+	var display = document.getElementById('display');
+	var displayHTML = "";
+	for (i = 1; i < 101; i++) {
+		if (i % 3 == 0 && i % 5 == 0) {
+			displayHTML += "<p>FizzBuzz</p>";
+		} else if (i % 3 == 0) {
+			displayHTML += "<p>Fizz</p>";
+		} else if (i % 5 == 0) {
+			displayHTML += "<p>Buzz</p>";
+		} else {
+		displayHTML += "<p>" + i + "</p>";
+		}
+	}
+	display.innerHTML = displayHTML
+}
+
+</script>
+
+</head>
+
+<body onload="fizzbuzz()">
+<div id="display">
+
+</div>
+</body>
+
+</html>
+
+#### Table of Contents
+
+[Computer classes](#how-did-we-get-here)
+
+[Mexico stuff](#bilingual-time)
+
+[Barely anything about dogs.](#dogs)
 
