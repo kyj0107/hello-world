@@ -83,42 +83,13 @@ We have another dog named Oliver. He's a Shi Tzu-Maltese mix, and he's also cute
 
 Well, that's about all I got to fill the requirements for this project. I can definitely go on about computer classes, but everything else? Nah. Anyway...
 
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Fizz Buzz</title>
-<script>
+```python
+	a, b = 0, 1
+	while b < 10:
+	    print(b)
+	    a, b = a, a + b
 
-function fizzbuzz() {
-	var display = document.getElementById('display');
-	var displayHTML = "";
-	for (i = 1; i < 101; i++) {
-		if (i % 3 == 0 && i % 5 == 0) {
-			displayHTML += "<p>FizzBuzz</p>";
-		} else if (i % 3 == 0) {
-			displayHTML += "<p>Fizz</p>";
-		} else if (i % 5 == 0) {
-			displayHTML += "<p>Buzz</p>";
-		} else {
-		displayHTML += "<p>" + i + "</p>";
-		}
-	}
-	display.innerHTML = displayHTML
-}
-
-</script>
-
-</head>
-
-<body onload="fizzbuzz()">
-<div id="display">
-
-</div>
-</body>
-
-</html>
-
+```
 #### Table of Contents
 
 [Computer classes](#how-did-we-get-here)
