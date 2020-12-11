@@ -41,6 +41,30 @@ Anyway, as you all are aware, COVID-19 spread to Missouri in March, and they clo
 
 So yeah. The experience at CTC pretty much solidified my idea of working in Information Technology. So here we are!
 
-## Am I bilingual if I can understand a second language but can't speak it?
+## Am I bilingual if I can understand a second language but cannot speak it? {#bilingual-time}
+
+Last December, my family traveled to southern--I mean, *southern*--Mexico to see my mom's relatives. Tapachula, the city my mom was raised in, is, like, right on the border of Guatemala. Hopefully, that gives you a semi-decent idea of where it is. And it's consistently hot--the lowest would be 70, the highest would be 90 or even hotter, and it was, like, always bright and sunny. I don't remember a single day when it rained in during those two weeks in Mexico! Of course, you were also surrounded by Spanish-speaking natives, Spanish signs, Spanish...**everything**. Also, the Walmart in Tapachula has an entire aisle for chocolate. As an American whose first language is English, I read it as "chawk-let". But this is Mexico we're talking about, so it's "choe-coe-lah-teh". I was wondering, "Wait, why is the word 'chocolate' in English?" It's not in English--Spanish just spells it the same way.
+
+I don't remember much of the trip, but I do remember a bit about San Cristobal. It's basically a place in the mountains with ridiculously bright, colorful houses. No, seriously, if you were looking for someone who lived in that neighborhood, people would just tell you which colored house to go to--*those houses didn't have addresses!*
+
+I mean, *look at this*!
+
+![San Cristobal houses](https://www.filmingperu.com/wp-content/uploads/2019/12/SAN-CRISTOBAL-04.jpg)
+
+And while I'm at it, here's the Wikipedia page on [San Cristobal de las Casas.](https://en.wikipedia.org/wiki/San_Crist%C3%B3bal_de_las_Casas)
+
+Anyway, my family went to San Cristobal. At some point, we were delayed because of some...avalanche or something...further ahead that blocked the road, so there was a guy who came up to us and told us which way to go that would still take us to San Cristobal. The funniest thing about it was that we noticed my sister and me, and he spoke in English--very, *very* broken English. I mean, he tried! But in all honesty, my sister and I were better off hearing his instructions in Spanish.
+
+But yeah. San Cristobal was okay.
+
+A little while after, we went to a relative's house and stayed there. It was nice and chilly, but it was *so*, **so** bright outside. Here's some context: I'm very blind, so I wear glasses. The glasses I had at the time (they're now broken) had transition lenses, meaning the lenses would darken when exposed to UV light. And there was **so** much sun in that area that my glasses almost turned completely black after just minutes standing out there!
+
+Why was I outside, you wonder? Well, washers and dryers are expensive in Mexico, so most people just buy the washer and dry their clothes outside. Besides, why waste precious electricity or gas when you can harness the power of the **Sun** to dry your clothes?! The only downside is that they get really wrinkly, so you have to iron them. So there I was, hanging up clothes and minding my own business when...
 
 ![butterfly on a shirt](https://user-images.githubusercontent.com/70150464/101841701-1309fc80-3b0c-11eb-8776-88fc4f0cc97c.jpg)
+
+...this little guy appeared!
+
+The butterfly just came by and landed on my tie-dye shirt! And it just sat there. For minutes. Maybe longer. I don't remember how long it was before the butterfly finally decided, "Okay, I'm good," and flew away.
+
+So let's discuss the [header!](#bilingual-time)
